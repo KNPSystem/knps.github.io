@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to KNPS
 
 You can use the [editor on GitHub](https://github.com/KNPSystem/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
